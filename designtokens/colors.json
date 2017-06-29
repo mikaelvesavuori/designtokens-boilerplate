@@ -1,0 +1,53 @@
+{
+	"global": {
+		"type": "color",
+		"category": "colors"
+	},
+	"props": {
+		"COLOR_WHITE": {
+			"value": "#fff"
+		},
+		"COLOR_OFFWHITE": {
+			"value": "#f4f1eb"
+		},
+		"COLOR_BLACK": {
+			"value": "#000"
+		},
+		"COLOR_OFFBLACK": {
+			"value": "#1e1e1e"
+		},
+		"color-blue": {
+			"value": "#00acf0"
+		},
+		"color-purple": {
+			"value": "#7e54d1"
+		},
+		"color-green": {
+			"value": "#14d26e"
+		},
+		"color-yellow": {
+			"value": "#ffd200"
+		},
+		"color-red": {
+			"value": "#d82a4e"
+		},
+		"color-orange": {
+			"value": "#f35c20"
+		},
+		"color-green": {
+			"value": "#14d26e"
+		},
+		"color-gray": {
+			"value": "#b2b2b2"
+		},
+		"color-darkgray": {
+			"value": "#666"
+		},
+		"color-midgray": {
+			"value": "#999"
+		},
+		"color-lightgray": {
+			"value": "#ccc"
+		}
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"global": {
+		"type": "size",
+		"category": "lineheights"
+	},
+	"props": {
+		"LINE_HEIGHT_XXS": {
+			"value": "1.3"
+		},
+		"LINE_HEIGHT_XS": {
+			"value": "1.45"
+		},
+		"LINE_HEIGHT_S": {
+			"value": "1.6"
+		},
+		"LINE_HEIGHT_M": {
+			"value": "1.6"
+		},
+		"LINE_HEIGHT_L": {
+			"value": "1.8"
+		},
+		"LINE_HEIGHT_XL": {
+			"value": "1.8"
+		},
+		"LINE_HEIGHT_XXL": {
+			"value": "1.8"
+		}
+	}
+}

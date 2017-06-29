@@ -1,0 +1,20 @@
+{
+	"imports": [
+		"./aliases.json",
+		"./colors.json",
+		"./fontsizes.json",
+		"./fontweights.json",
+		"./lineheights.json",
+		"./sizing.json",
+		"./spacing.json",
+		"./viewport.json"
+	],
+	"props": {
+		"COLOR_BRAND": {
+			"value": "{!CASPER}",
+			"type": "color",
+			"category": "background-color",
+			"comment": "Some comment about how to use it."
+		}
+	}
+}

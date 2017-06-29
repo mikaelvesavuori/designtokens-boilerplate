@@ -1,0 +1,29 @@
+{
+	"global": {
+		"type": "size",
+		"category": "fontsizes"
+	},
+	"props": {
+		"FONT_SIZE_XXS": {
+			"value": ".65em"
+		},
+		"FONT_SIZE_XS": {
+			"value": ".8em"
+		},
+		"FONT_SIZE_S": {
+			"value": "1em"
+		},
+		"FONT_SIZE_M": {
+			"value": "1.35em"
+		},
+		"FONT_SIZE_L": {
+			"value": "2.1em"
+		},
+		"FONT_SIZE_XL": {
+			"value": "2.8em"
+		},
+		"FONT_SIZE_XXL": {
+			"value": "4em"
+		}
+	}
+}

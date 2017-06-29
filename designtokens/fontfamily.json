@@ -1,0 +1,17 @@
+{
+	"global": {
+		"type": "size",
+		"category": "fontfamily"
+	},
+	"props": {
+		"FONT_FAMILY_REGULAR": {
+			"value": "-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif"
+		},
+		"FONT_FAMILY_BOLD": {
+			"value": "-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif"
+		},
+		"FONT_FAMILY_FIXED": {
+			"value": "monospace"
+		}
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"global": {
+		"type": "size",
+		"category": "viewport"
+	},
+	"props": {
+		"VIEWPORT_DESKTOP_WIDE": {
+			"value": "1180px"
+		},
+		"VIEWPORT_DESKTOP": {
+			"value": "1024px"
+		},
+		"VIEWPORT_TABLET": {
+			"value": "768px"
+		},
+		"VIEWPORT_MOBILE_XL_LANDSCAPE": {
+			"value": "736px"
+		},
+		"VIEWPORT_MOBILE_XL": {
+			"value": "414px"
+		},
+		"VIEWPORT_MOBILE_MID_LANDSCAPE": {
+			"value": "568px"
+		},
+		"VIEWPORT_MOBILE_MID": {
+			"value": "375px"
+		},
+		"VIEWPORT_MOBILE_LANDSCAPE": {
+			"value": "480px"
+		},
+		"VIEWPORT_MOBILE": {
+			"value": "320px"
+		}
+	}
+}
